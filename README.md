@@ -11,7 +11,7 @@ GoAccess 中文版，此中文版基于官方 goaccess 1.2 版本汉化，绝对
 ```
 $ yum install -y git
 $ git clone https://github.com/typefo/goaccess.git
-$ cd goaccess-1.2
+$ cd goaccess
 $ ./configure --enable-utf8 --enable-geoip=legacy
 $ make
 $ make install
